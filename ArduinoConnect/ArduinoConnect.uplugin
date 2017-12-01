@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ArduinoConnect",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Jin",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.18.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ArduinoConnect",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
